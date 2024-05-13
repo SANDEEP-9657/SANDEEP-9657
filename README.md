@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/sandeepv9657" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepv9657?logo=twitter&style=for-the-badge" alt="sandeepv9657" /></a> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Application Development**
+- 👯 I’m looking to collaborate on **Web Development**
 
 - 💬 Ask me about **C and Java**
 
