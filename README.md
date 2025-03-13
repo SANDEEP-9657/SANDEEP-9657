@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sandeepv9657" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepv9657?logo=twitter&style=for-the-badge" alt="sandeepv9657" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **CPP**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **CPP**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **IOT DEVELOPMENT**
 
-- 💬 Ask me about **C and Java**
+- 💬 Ask me about **C and CPP**
 
 - 📫 How to reach me **sandeepvaiet@gmail.com**
 
