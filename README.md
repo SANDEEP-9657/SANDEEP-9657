@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **CPP**
 
-- 👯 I’m looking to collaborate on **IOT DEVELOPMENT**
+- 👯 I’m looking to collaborate on **DEVOPS AND CLOUD**
 
 - 💬 Ask me about **C and CPP**
 
