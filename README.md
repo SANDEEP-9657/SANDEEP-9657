@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sandeepv9657" target="blank"><img src="https://img.shields.io/twitter/follow/sandeepv9657?logo=twitter&style=for-the-badge" alt="sandeepv9657" /></a> </p>
 
-- 🔭 I’m currently working on **CPP**
+- 🔭 I’m currently working on **DEVOPS**
 
-- 🌱 I’m currently learning **CPP**
+- 🌱 I’m currently learning **DEVOPS**
 
 - 👯 I’m looking to collaborate on **DEVOPS AND CLOUD**
 
