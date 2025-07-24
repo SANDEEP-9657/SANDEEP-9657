@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Cloud**
 
-- 💬 Ask me about **C / C++ /**
+- 💬 Ask me about **C / C++ / C# / DevOps / Cloud / Virtual Machines**
 
 - 📫 How to reach me **sandeepvurimundara@gmail.com**
 
@@ -24,7 +24,7 @@
 <a href="https://linkedin.com/in/sandeepvat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeepvat" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/san9657" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="san9657" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/4al22ic036" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="4al22ic036" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sandeep9657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeep9657" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sandeepv9657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sandeepv9657" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/sandeepmg38" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sandeepmg38" height="30" width="40" /></a>
 </p>
 
